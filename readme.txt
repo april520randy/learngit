@@ -1,6 +1,2 @@
-git is a distributed control system
-git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-
-xxxxx
+产品经理资源
+https://pan.baidu.com/share/init?surl=AeAmtriKNtkslDVAXAq1aw 提取码：icjq
